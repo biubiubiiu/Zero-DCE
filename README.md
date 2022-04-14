@@ -14,6 +14,10 @@ A Jax/Flax implementation of *[TIP 2021 paper](https://ieeexplore.ieee.org/docum
 
 Zero-DCE is trained by a subset of SICE dataset, which can be downloaded from [Google Drive](https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3)
 
+## Quick Startup
+
+Directly run on [Colab](https://colab.research.google.com/github/biubiubiiu/Zero-DCE/blob/main/zero-dce.ipynb)
+
 ## Training
 
 ```bash
