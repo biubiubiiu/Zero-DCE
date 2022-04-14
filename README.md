@@ -12,7 +12,7 @@ A Jax/Flax implementation of *[TIP 2021 paper](https://ieeexplore.ieee.org/docum
 
 ## Dataset Preparation
 
-Zero-DCE is trained by a subset of SICE dataset, which can be downloaded from [Google Drive](https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3)
+Zero-DCE is trained with a selected subset of SICE dataset, which can be downloaded from [Google Drive](https://drive.google.com/file/d/1GAB3uGsmAyLgtDBDONbil08vVu5wJcG3)
 
 ## Quick Startup
 
