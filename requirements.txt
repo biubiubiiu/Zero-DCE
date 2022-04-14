@@ -1,0 +1,8 @@
+flax
+optax
+numpy
+matplotlib
+tqdm
+tensorflow
+tensorflow_datasets
+addict
